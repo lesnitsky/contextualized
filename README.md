@@ -3,6 +3,7 @@
 [![lesnitsky.dev](https://lesnitsky.dev/shield.svg?hash=45352)](https://lesnitsky.dev?utm_source=contextualized)
 [![GitHub stars](https://img.shields.io/github/stars/lesnitsky/contextualized.svg?style=social)](https://github.com/lesnitsky/contextualized)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lesnitsky_dev.svg?label=Follow%20me&style=social)](https://twitter.com/lesnitsky_dev)
+[![codecov](https://codecov.io/gh/lesnitsky/contextualized/branch/master/graph/badge.svg?token=ATT2E1C7XN)](https://codecov.io/gh/lesnitsky/contextualized)
 
 Context is a HashMap with shadowing (inherits parent values) and helpers to work with `Type`s as keys
 
