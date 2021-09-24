@@ -1,6 +1,6 @@
 name: contextualized
 description: Context is a HashMap with shadowing (inherits parent values) and helpers to work with Types as keys
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/lesnitsky/contextualized
 repository: https://github.com/lesnitsky/contextualized
 
